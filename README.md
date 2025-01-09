@@ -5,6 +5,8 @@
       <img src="paint-application/Screenshot.png" alt="screenshot" style="width:500px;" />
     </td>
     <td style="width: 65%; vertical-align: top;">
+      <h3>Features</h3>
+      <hr>
       <ul>
         <li>Shapes</li>
         <li>Colors</li>
@@ -13,3 +15,6 @@
     </td>
   </tr>
 </table>
+
+### Installation
+[Download the latest version here.](https://github.com/temesgen-982/paint-applicatin-c-sharp/releases/download/v1.0.0/SetupPaintapplication.msi)
